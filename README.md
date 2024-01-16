@@ -1,5 +1,6 @@
 # PaintBrush
 Paint is a simple raster graphics editor. It's built using Java Programming Language with OOP Principles. The program lets you draw lines and shapes such as Rectangle and Oval with different colors picked from a color palette. Also, you can draw with free-hand pencil and erase whatever you want with the Eraser. It has some extra features such as fill shapes, Undo, and Clear All options.
+
 Abstraction:
 The GeoShape abstract class serves as a blueprint, allowing specific geometric shapes to share common characteristics.
 
